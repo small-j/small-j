@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![](https://img.shields.io/badge/-spring_boot-white?labelColor=white&logo=Spring)
+![](https://img.shields.io/badge/-Vue.js-white?labelColor=white&logo=Vue.js)
+[![](https://img.shields.io/badge/-tech_blog-white?labelColor=white&logo=Blogger)](https://small-j.tistory.com/)
