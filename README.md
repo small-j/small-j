@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## framework
-![Spring boot](https://img.shields.io/badge/-Spring boot-white?labelColor=white&logo=Spring)
+![](https://img.shields.io/badge/-Spring boot-white?labelColor=white&logo=Spring)
 ![](https://img.shields.io/badge/-Vue.js-white?labelColor=white&logo=Vue.js)
 
 
