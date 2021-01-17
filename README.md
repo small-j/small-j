@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## framework
-
+![Springboot](https://img.shields.io/badge/-Springboot-white?logo=Spring)
 ![](https://img.shields.io/badge/-Vue.js-white?labelColor=white&logo=Vue.js)
-![Spring boot](https://img.shields.io/badge/-Spring boot-white?logo=Vue.js)
 
 
 ## 언어
