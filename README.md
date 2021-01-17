@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/-spring_boot-white?labelColor=white&logo=Spring)
 ![](https://img.shields.io/badge/-Vue.js-white?labelColor=white&logo=Vue.js)
-[![](https://img.shields.io/badge/-tech_blog-white?labelColor=white&logo=Blogger)](https://small-j.tistory.com/)
+![Java](https://img.shields.io/badge/-Java-black?logo=Java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=JavaScript)
