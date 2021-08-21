@@ -22,6 +22,5 @@ Here are some ideas to get you started:
 ![Node.js](https://img.shields.io/badge/-Node.js-white?logo=Node.js&style=flat)
 
 
-![Java](https://img.shields.io/badge/-Java-black?logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=TypeScript&style=flat)
