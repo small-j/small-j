@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![Springboot](https://img.shields.io/badge/-Springboot-white?logo=Spring)
 ![](https://img.shields.io/badge/-Vue.js-white?labelColor=white&logo=Vue.js)
 ![Angular](https://img.shields.io/badge/-Angular-fa4343?logo=Angular)
 ![Node.js](https://img.shields.io/badge/-Node.js-white?logo=Node.js&style=flat)
