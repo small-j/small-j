@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![](https://img.shields.io/badge/-Vue.js-white?labelColor=white&logo=Vue.js)
-![react](https://img.shields.io/badge/-react-white?logo=React)
 ![Angular](https://img.shields.io/badge/-Angular-fa4343?logo=Angular)
 ![Node.js](https://img.shields.io/badge/-Node.js-white?logo=Node.js&style=flat)
 
