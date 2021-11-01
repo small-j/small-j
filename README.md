@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://img.shields.io/badge/-Vue.js-white?labelColor=white&logo=Vue.js)
-![Angular](https://img.shields.io/badge/-Angular-fa4343?logo=Angular)
-![Node.js](https://img.shields.io/badge/-Node.js-white?logo=Node.js&style=flat)
+![Vue.js](https://img.shields.io/badge/-Vue.js-white?logo=Vue.js&style=for-the-badge)
+![Angular](https://img.shields.io/badge/-Angular-ff0000?logo=Angular&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-white?logo=React&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-white?logo=Node.js&style=for-the-badge)
 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=TypeScript&style=flat)
+![](https://img.shields.io/badge/--white?logo=JavaScript&style=for-the-badge)
+![](https://img.shields.io/badge/--white?logo=TypeScript&style=for-the-badge)
