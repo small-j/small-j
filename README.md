@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Vue.js](https://img.shields.io/badge/-Vue.js-white?logo=Vue.js&style=for-the-badge)
-![Angular](https://img.shields.io/badge/-Angular-ff0000?logo=Angular&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-white?logo=React&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-white?logo=Node.js&style=for-the-badge)
 
