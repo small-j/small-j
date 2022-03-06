@@ -12,9 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://api.gitofolio.com/portfolio/14/17>
-<img src="https://api.gitofolio.com/portfoliocard/svg/17/>
-</a>
+![](https://api.gitofolio.com/portfolio/14/17)
 
 
 ![React](https://img.shields.io/badge/-React-white?logo=React&style=for-the-badge)
