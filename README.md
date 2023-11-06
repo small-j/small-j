@@ -13,9 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![React](https://img.shields.io/badge/-React-white?logo=React&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-white?logo=Node.js&style=for-the-badge)
+### 🤩 Activity
 
+- 교내 알고리즘 동아리 ALCUK (2018.12 ~ 2022.08)
+- 대학생 연합동아리 [SOPT](https://sopt.org/) 29기 Web Frontend 파트 (2021.09 ~ 2022.01)
 
-![](https://img.shields.io/badge/--white?logo=JavaScript&style=for-the-badge)
-![](https://img.shields.io/badge/--white?logo=TypeScript&style=for-the-badge)
+### 💼 Work Experience
+
+- 모노라마 Web Developer 인턴 (2021.03 ~ 2021.06)
+- 아이디스 SW 연구 개발 - Frontend Developer (2022.10 ~ 2023.10)
