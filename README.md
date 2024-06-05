@@ -25,10 +25,11 @@ Here are some ideas to get you started:
 
 
 
+
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/small-j?pet-id=584625414612542212"
     width="600"
-    height="90"
+    height="100"
   />
 </a>
