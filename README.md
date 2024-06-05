@@ -24,11 +24,10 @@ Here are some ideas to get you started:
 - 아이디스 SW 연구 개발 - Frontend Developer (2022.10 ~ 2023.10)
 
 
-
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/small-j?pet-id=584625414612542212"
-    width="100"
-    height="100"
+    width="600"
+    height="90"
   />
 </a>
